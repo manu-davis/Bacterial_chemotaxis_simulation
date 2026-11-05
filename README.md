@@ -25,3 +25,6 @@ $$\text{factor} = 0.5 \cdot \sin(\Delta\theta)$$
 
 Collision causes attacker to change its dirction slightly towards direction of target
 $$\Delta\theta_{\text{collision}} = \Big( ( \Delta\theta + \pi ) \pmod{2\pi} \Big) - \pi$$
+
+##limitations
+This was a beginner project using basic gradient method and collision ideas to create a simple simulation. Will be uploading a better one once I have learned enough statistical mechanics and theory needed for an appropriate representation.
